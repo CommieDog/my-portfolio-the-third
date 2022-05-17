@@ -1,7 +1,9 @@
 # My Portfolio The Third
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is my third attempt at a professional-looking portfolio page. The biggest change is an update in the projects that I have worked on, along with my new experience in backend development.
+This project is my third attempt at a professional-looking portfolio page. My portfolio page includes a header with my name, a portrait, and my street address, a brief biography, a showcase of my work, a brief list of expreience, and contact information including a link to my resume.
+
+The biggest change is an update in the projects that I have worked on, along with my new experience in backend development.
 
 
 ## Table of Contents
