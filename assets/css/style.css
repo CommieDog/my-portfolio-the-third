@@ -45,6 +45,15 @@ header {
     background-color: rgba(173, 216, 230, 0.5);
 }
 
-.card:hover {
+/*.card-container {
+    margin: 1rem;
+}
+
+.card-container:hover {
+    margin: 0px;
+    transition: margin-right 1s, margin-top 1s, margin-left 1s, margin-bottom 1s;
+}*/
+
+.card-container:hover .card {
     background-color: rgba(173, 216, 230, 0.5);
 }
