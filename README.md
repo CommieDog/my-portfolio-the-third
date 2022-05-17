@@ -5,6 +5,8 @@ This project is my third attempt at a professional-looking portfolio page. My po
 
 The biggest change is an update in the projects that I have worked on, along with my new experience in backend development.
 
+![Screenshot of final product.](https://github.com/CommieDog/my-portfolio/blob/main/assets/images/readme/my-portfolio-site-screenshot.jpg)
+
 
 ## Table of Contents
 
