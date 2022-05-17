@@ -44,3 +44,7 @@ header {
 #experience .list-group-item {
     background-color: rgba(173, 216, 230, 0.5);
 }
+
+.card:hover {
+    background-color: rgba(173, 216, 230, 0.5);
+}
